@@ -12,5 +12,8 @@
   "dependencies": {
     "concurrently": "^9.0.1",
     "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
